@@ -38,7 +38,7 @@ console.log( str3 );
 
 ### gistのコードを表示↓
 
-+++?gist=8797bcfa8a163e2f448e4d26934ca95f
++++?gist=1f39d3baae495652ac52609cce31aaed
 
 gistに公開したソースコードを読み込んで表示しています
 
